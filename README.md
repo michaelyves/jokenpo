@@ -6,4 +6,4 @@ Rock, Paper, Scissors game made in html
 
   - Paper covers rock
   - Rock crushes scissors
-  - Scissor cuts paper
+  - Scissors cuts paper
